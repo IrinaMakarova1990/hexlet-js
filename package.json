@@ -1,0 +1,30 @@
+{
+  "name": "mypackege",
+  "type": "module",
+  "version": "8.15.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrinaMakarova1990/hexlet-js.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "IrinaMakarova1990",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaMakarova1990/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/IrinaMakarova1990/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
